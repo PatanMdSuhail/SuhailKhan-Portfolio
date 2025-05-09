@@ -14,29 +14,7 @@ export const EXPERIENCES = [
     company: "Google Inc.",
     description:
       "I am continuously expanding my expertise by learning new technologies and refining my skills. My focus has been on improving my proficiency in React.js, where I am deepening my understanding of component architecture and optimizing UI/UX development. I have also been mastering Redux & Redux Toolkit to enhance state management for scalable applications. Strengthening authentication and authorization workflows has been a priority, leading me to work extensively with JWT (JSON Web Tokens) to ensure secure user access in web applications. Currently, I am transitioning into mobile development with React Native, aiming to build cross-platform applications that offer seamless user experiences. Through hands-on projects and continuous exploration, I am dedicated to refining my problem-solving abilities and staying adaptable in the ever-evolving tech landscape.",
-    // technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
-  // {
-  //   year: "2022 - 2023",
-  //   role: "Frontend Developer",
-  //   company: "Adobe",
-  //   description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-  //   technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  // },
-  // {
-  //   year: "2021 - 2022",
-  //   role: "Full Stack Developer",
-  //   company: "Facebook",
-  //   description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-  //   technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  // },
-  // {
-  //   year: "2020 - 2021",
-  //   role: "Software Engineer",
-  //   company: "Paypal",
-  //   description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-  //   technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  // },
 ];
 
 export const PROJECTS = [
