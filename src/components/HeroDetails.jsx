@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants/index.js";
-import profiepic from "../assets/kevinRushProfile.png";
+import profiepic from "../assets/ghibli 1.jpg";
 import { animate, motion } from "framer-motion";
 
 const container = (delay) => ({

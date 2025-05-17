@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/ghibli 2.jpeg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -16,7 +16,13 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.25 }}
             className="flex items-center justify-center"
           >
-            <img className="rounded-2xl" src={aboutImg} alt="AboutImage" />
+            <img
+              className="rounded-2xl object-cover"
+              src={aboutImg}
+              alt="AboutImage"
+              width={"65%"}
+              height={"75%"}
+            />
           </motion.div>
         </div>
         <div className="w-full lg:w-1/2">
