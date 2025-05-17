@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/MyPortfolio.png";
+import project1 from "../assets/projects/My Portfolio.png";
 import project2 from "../assets/projects/MemoryGame.png";
 import project3 from "../assets/projects/ListingsProject.png";
 import project4 from "../assets/projects/MoviesProject.png";
